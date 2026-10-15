@@ -262,7 +262,7 @@ node_modules/
 
 ## Author
 
-**Riya Kumari**
+**Riya**
 
 - GitHub: [riya5005](https://github.com/riya5005)
-- LinkedIn: [Riya Kumari](https://www.linkedin.com/in/riya-sharma-48bb34253/)
+- LinkedIn: [Riya](https://www.linkedin.com/in/riya-sharma-48bb34253/)
